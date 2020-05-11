@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: 25px;
+  color: #fff;
+  line-height: 50px;
+  text-align: center;
+  background: #000;
+  margin-left:10px;
+  margin-top:20px;
+  padding: 0;
+  border: springgreen solid 1px;
+  float: left;
+}
+
+.detail{
+  float: left;
+  margin-left: 50px;
+}
+.rag {
+  margin: auto;
+  border: salmon solid 1px;
+  width: 300px;
+  height: 100px;
+  display: block;
+}
+.number{
+  margin-top: 10px;
+  padding: 0;
+
+}
+.link {
+  margin-top: 10px;
+  padding: 0;
+
+}
